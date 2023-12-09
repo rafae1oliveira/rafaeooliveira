@@ -53,14 +53,14 @@ Hello I'm Rafael Alves
 </p>
 
 <p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=rafaeooliveira&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeooliveira&hide=html,css&theme=radical">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=rafaeooliveira&show_icons=true&theme=aura&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeooliveira&hide=html,css&theme=aura">
 </p>
 
 
 
 <p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=rafaeooliveira&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=rafaeooliveira&show_icons=true&locale=en&layout=compact&theme=aura&line_height=0" />
 </p> 
  
 <hr>
