@@ -7,9 +7,9 @@
 
 <p align="center">
  
- <img src="https://badges.pufler.dev/visits/rafaeooliveira/rafaeooliveira"/> 
- <img src="https://badges.pufler.dev/repos/rafaeooliveira"/>
- <img src="https://badges.pufler.dev/commits/monthly/rafaeooliveira" />
+ <img src="https://badges.pufler.dev/visits/rafae1oliveira/rafae1oliveira"/> 
+ <img src="https://badges.pufler.dev/repos/rafae1oliveira"/>
+ <img src="https://badges.pufler.dev/commits/monthly/rafae1oliveira" />
 
 </p> 
 
@@ -45,22 +45,22 @@ Hello I'm Rafael Alves
 <img src="https://img.shields.io/badge/-rafaeooliveira-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/rafaeooliveira/"/>
 </a>-->
 <a href="mailto: rafaell.oliveira001@gmail.com">
- <img src="https://img.shields.io/badge/-rafaeooliveira-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafaell.oliveira001@gmail.com"/>
+ <img src="https://img.shields.io/badge/-rafae1oliveira-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafaell.oliveira001@gmail.com"/>
 </a>
 <a href="https://linkedin.com/in/rafael-alves-961b78133/">
- <img src="https://img.shields.io/badge/-rafaeooliveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-alves-961b78133/"/>
+ <img src="https://img.shields.io/badge/-rafae1oliveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-alves-961b78133/"/>
 </a>
 </p>
 
 <p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=rafaeooliveira&show_icons=true&theme=aura&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeooliveira&hide=html,css&theme=aura">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=rafae1oliveira&show_icons=true&theme=aura&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=rafae1oliveira&hide=html,css&theme=aura">
 </p>
 
 
 
 <p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=rafaeooliveira&show_icons=true&locale=en&layout=compact&theme=aura&line_height=0" />
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=rafae1oliveira&show_icons=true&locale=en&layout=compact&theme=aura&line_height=0" />
 </p> 
  
 <hr>
